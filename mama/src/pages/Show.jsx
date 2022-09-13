@@ -1,7 +1,7 @@
 const Show = () => {
     return (
         <section>
-            
+            <a href="/">LandingPage</a>
         </section>
     );
 }
